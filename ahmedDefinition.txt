@@ -1,0 +1,2 @@
+Inheritance is the relationship between the parent and the child class
+where child class can access the attributes and methods of the parent class.
